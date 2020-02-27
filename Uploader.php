@@ -37,6 +37,6 @@ if (isset($_FILES['userfile']['name'])) {
 <br/><font color= #e61e1e>----------------------------------------------------------------</font>
 <br>
 <br>
-<div style="font-size:15px;color:red;font-style:Comic Sans Serif;">-= CopyRight � 2019 | Mxhr =-</div>
+<div style="font-size:15px;color:red;font-style:Comic Sans Serif;">-= CopyRight � 2020 | Mxhr =-</div>
 </body>
 </html>
